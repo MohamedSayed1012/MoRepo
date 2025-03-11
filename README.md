@@ -1,4 +1,4 @@
-# Taming LLMs: Classification and Content Analysis Tool
+# Taming LLMs
 
 ## Overview
 This project implements a classification and content analysis tool using the **Groq API**, evaluating different **prompting strategies** to determine their effectiveness. The tool classifies text into predefined categories and analyzes confidence levels. A test harness was also built to compare prompt strategies, with results visualized using **Matplotlib**.
